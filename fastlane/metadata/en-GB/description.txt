@@ -1,0 +1,12 @@
+Chickomissar is a pantry list for home cooks who buy tins in advance and want each one assigned to a cook day before the best-before date.
+
+• Use soon shows the soonest tin, the days left, and Assign to today.
+• Finish a seated tin when it is cooked, or Waste it without a cook day. Undo reverses the last assign, finish, or waste.
+• Scan reads a barcode or QR, or you type a code. Save tin adds it with a best-before date.
+• Find a product by name, then confirm the title and date.
+• On Simulator, Sample codes include Oat tin, Tomato tin, Chickpea tin, and Rice tin.
+• Pantry groups the shelf as seated, on shelf, past date, and cleared. Edit a date, or Clear past dates.
+• Settings plans cook days ahead (3, 5, 7, or 14), shows saved marks, and offers Export history or Reset all data.
+• The introduction covers Shelf, Assign, and Keep. Show introduction plays it again.
+
+Your pantry stays on this device. A product lookup may leave the device only to fill in a name.

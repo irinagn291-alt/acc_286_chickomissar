@@ -1,0 +1,17 @@
+The only permission is the camera. It is requested on Scan, after the line "The camera reads the barcode on the tin." and the button Continue. The usage description is: "Commissary uses the camera to scan product barcodes so you can add tins to your use-soon ladder with the correct best-before date." If the camera was denied, Scan shows "Camera is off. Open Settings to use it, or type a code below." and the button Open Settings. No other permission is requested.
+
+There is no login, no in-app purchase, no account deletion flow, and no App Tracking Transparency prompt. A tin title you type stays in your own pantry and is not published.
+
+Chickomissar is a personal pantry for household cooks who keep tins and want each one seated on a cook day before the best-before date. It shows days left and the actions Assign, Finish, and Waste. It is meant for someone planning what to cook from the shelf, not for calorie tracking.
+
+No credentials or demo account are needed. On a cold launch the introduction shows Page 1 of 3, titled SHELF, with "Scan a tin and keep the best-before date." Next opens ASSIGN, "Seat it on a cook day, then finish it that day." Next again opens KEEP, "Past dates wait in the pantry until you clear them." Start, or Skip on any page, opens Use soon. With an empty shelf the screen says "The pantry is empty. Scan the first tin." Tap Scan a tin. On Simulator the introduction is already complete: Use soon features Oat tin, with Tomato tin and Chickpea tin on the shelf and Rice tin seated on tomorrow. Tap Assign to today on Oat tin. A seated tin shows Finish plus the tin name. Waste asks you to confirm Waste tin. The toolbar Undo peels the last mark. Scan a tin opens Scan: Continue leads to the camera prompt; under TIN you can type a barcode, set Best before, and tap Save tin. On Simulator, SAMPLE CODES lists Oat tin, Tomato tin, Chickpea tin, and Rice tin. Pantry shows SEATED, ON SHELF, PAST DATE, and CLEARED. Tap a row to open Best before and tap Save date. Clear past dates asks you to confirm. The gear opens Settings, titled Settings, with PLAN. COOK DAYS AHEAD offers 3, 5, 7, and 14. Export history shares Pantry history. Reset all data asks you to confirm. Show introduction replays the three pages. Close returns to Use soon.
+
+Product name and barcode lookups leave the device so a tin can be identified; the pantry list itself stays on the device. Settings includes Open Food Facts and Contact.
+
+Behaviour does not change by region. Dates follow the device calendar.
+
+No licence or regulated-industry paperwork applies. This is a personal pantry list, not a medical device, a food-safety service, or a shop.
+
+The app is a personal log only and gives no recommendations.
+
+A scannable QR is attached (qr-code.png). It encodes 5000159461122. Simulator users type those digits in the Barcode field on Scan. The same digits are shown under SAMPLE CODES on Oat tin.

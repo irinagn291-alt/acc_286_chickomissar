@@ -1,0 +1,1 @@
+First release. Scan or type a tin, keep its best-before date, and assign it to a cook day. Finish it when you cook it, or mark it waste. Pantry holds seated, on-shelf, past-date, and cleared tins. Settings sets how many cook days you plan ahead and can export or reset the list on this device.

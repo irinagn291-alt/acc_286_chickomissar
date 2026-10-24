@@ -1,0 +1,1 @@
+pantry,best before,cook day,barcode,expiry,tins,shelf,use soon,food waste
